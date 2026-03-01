@@ -2,7 +2,7 @@
 
 A modern, high-performance cloud storage web application built with PHP, MySQL, and Vanilla JS. FleetVault features a clean, sharp, minimal interface inspired by Google Drive, optimized for personal and/or multi-user file management.
 
-## ✨ Features
+## Features
 
 - **Secure Authentication**: Robust Sign Up and Login with password hashing (BCrypt).
 - **File Management**: Upload, Download, Rename, and Delete files/folders.
@@ -16,7 +16,7 @@ A modern, high-performance cloud storage web application built with PHP, MySQL, 
 - **Responsive Design**: Fluid layout optimized for Desktop, Tablet, and Mobile.
 - **Storage Metrics**: Real-time storage usage tracking and quota management.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: HTML5, CSS3, Vanilla JavaScript, Google Fonts & Icons.
 - **Backend**: PHP 8.x.
